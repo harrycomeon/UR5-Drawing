@@ -1,0 +1,13 @@
+Input File: img/neu2.svg
+Output File: img/gcode_output/neu2.gcode
+Log File: img/log/neu2.log
+
+wdth: 500
+hght: 464
+scale: 0.3
+x%: 0.3
+y%: 0.323275862069
+--Found Elem: <Element '{http://www.w3.org/2000/svg}svg' at 0x7f4772dbe4d0>
+  --No Name: svg
+--Found Elem: <Element '{http://www.w3.org/2000/svg}image' at 0x7f4772dbe490>
+  --No Name: image
