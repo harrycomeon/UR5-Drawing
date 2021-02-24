@@ -5,8 +5,7 @@
 基于ROS，我们利用gcode与moveit结合产生了一种离线生成路点，并利用笛卡尔路径规划进行运动学规划的绘图方式。
 
 
-本系统在 Ubuntu 16.04 + ros kinetic下测试通过  
-机械臂控制采用moveit  
+# 本系统在 Ubuntu 16.04 + ros kinetic下测试通过 ，机械臂控制采用moveit  
  
 
 ### 整体方案：
@@ -16,7 +15,7 @@
 
 ### 具体原理：
 
-Blog：
+# Blog：
 
 `universal_robot`
 
@@ -37,6 +36,6 @@ Blog：
   - `lib/shapes.py` svg形状类型解析
   - `lib/cubicsuperpath.py` 曲线插值
 
-参考网址：
+## 参考网址：
 
 https://github.com/mywisdomfly/drawing_manipulator
